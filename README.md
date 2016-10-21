@@ -1,1 +1,0 @@
-# kursovoyproektSBORKA-1
