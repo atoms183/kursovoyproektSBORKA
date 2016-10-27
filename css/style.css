@@ -216,13 +216,14 @@ h2 {
 }
 
 .main-action {
-    background-color: #FF5530;
+    background-color: #AB3C54;;
     color: #fff;
     font-family: 'Dancing Script', cursive;
     font-size: 25px;
     height: 44px;
     line-height: 44px;
     border-radius: 4px;
+    margin: 7px;
     padding: 0px 26px;
     display: inline-block;
     text-decoration: none !important;
